@@ -200,9 +200,12 @@
                         placeholder="Funktioniert etwas nicht?"></textarea>
                     </div>
 
-                    <button type="submit" id="next" class="btn btn-primary col-12 col-md-6 col-lg-3">Weiter</button>
+                    <button type="submit" id="next" class="btn btn-primary col-12 col-md-6 col-lg-3">
+                        Weiter
+                    </button>
                 </div>
             </div>
         </form>
+        <script src="assets/js/main.js"></script>
     </body>
 </html>
