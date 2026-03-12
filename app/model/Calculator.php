@@ -1,0 +1,1 @@
+Перенеси сюда функции calculateAge, calculateNights, calculateAmount и calculateTouristTax из твоего списка functions.php. Это чистая бизнес-логика.

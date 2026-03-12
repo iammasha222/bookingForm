@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<huts>
+  <neuhaeusl>
+    <name>Neuhäusl</name>
+    <prices>
+      <accommodation>
+        <child_u6>8</child_u6>
+        <member_6to16>9.50</member_6to16>
+        <member_adult>15</member_adult>
+        <guest_6to16>11</guest_6to16>
+        <guest_adult>20</guest_adult>
+        <tourist_tax>2</tourist_tax>
+      </accommodation>
+    </prices>
+  </neuhaeusl>
+</huts>

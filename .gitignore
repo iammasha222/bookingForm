@@ -1,0 +1,15 @@
+# Confidential data
+app/config/db_config.php
+app/config/.smtp.xml
+
+# Generated files
+app/data/*.pdf
+app/data/*.csv
+
+# OS system files
+.DS_Store
+Thumbs.db
+
+# IDE temporary files
+.vscode/
+.idea/
